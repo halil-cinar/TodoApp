@@ -1,6 +1,6 @@
 # Todo App
 
-Todo App is a web application built with JavaScript and React.js that allows users to plan their tasks, mark completed tasks, and delete tasks. The application stores the data locally in the browser, providing a seamless user experience. It also offers a day and night mode for personalized usage.
+Todo App is a web application built with **JavaScript** and **React.js** that allows users to plan their tasks, mark completed tasks, and delete tasks. The application stores the data locally in the browser, providing a seamless user experience. It also offers a day and night mode for personalized usage.
 
 ## Features
 
